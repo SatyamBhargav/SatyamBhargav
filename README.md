@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🌱 I’m currently learning Data Structure and Alogorithm
+- 🌱 I’m currently learning Flutter
 <!---
 - 🔭 I’m currently working ...
 - 👯 I’m looking to collaborate on ...
