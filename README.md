@@ -1,14 +1,14 @@
 Hi 👋 My name is Satyam Bhargav
 ===============================
 
-Flutter Developer
+Android Developer
 -----------------
 
 I'm a mobile developer who love flutter!
 
 * 🌍  I'm based in Delhi, India
 * ✉️  You can contact me at [satyambhargav20@gmail.com](mailto:satyambhargav20@gmail.com)
-* 🧠  I'm learning Flutter
+* 🧠  I'm learning Flutter & Kotlin
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
